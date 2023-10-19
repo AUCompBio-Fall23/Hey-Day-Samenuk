@@ -4,7 +4,9 @@ It is a tradition that started in Auburn back in 1947 after the WWII verterans c
 ## My Project
 This code lets you interact and enter your name to produce a Hey Day greeting.
 
+````Shell
 #! /bin/bash
 
 #user is prompted to type name
 echo "Enter your name"
+````
